@@ -70,6 +70,14 @@ include = [
     # Omitting: Makefile, dotfiles, docs/, etc.
 ]
 
+# FIXME/2023-05-20 01:38: Ensure poetry-shell-lint/ part of sdist?
+# - At least verify poetry-shell-lint/.env *not* added to either dist.
+#
+# exclude = [
+#     # The poetry-shell-lint/.env/ is from GitHub Actions checks.yaml `lint` task.
+#     "poetry-shell-lint/.env/",
+# ]
+
 # ***
 
 [tool.poetry.urls]
