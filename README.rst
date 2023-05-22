@@ -2,20 +2,20 @@
 easy-as-pypi
 @@@@@@@@@@@@
 
-.. image:: https://github.com/pydob/easy-as-pypi/actions/workflows/run-checks.yaml/badge.svg?branch=release
-  :target: https://github.com/pydob/easy-as-pypi/actions?workflow=run-checks
+.. image:: https://github.com/landonb/easy-as-pypi/actions/workflows/run-checks.yaml/badge.svg?branch=release
+  :target: https://github.com/landonb/easy-as-pypi/actions?workflow=run-checks
   :alt: Build Status
 
-.. image:: https://codecov.io/gh/pydob/easy-as-pypi/branch/release/graph/badge.svg
-  :target: https://codecov.io/gh/pydob/easy-as-pypi
+.. image:: https://codecov.io/gh/landonb/easy-as-pypi/branch/release/graph/badge.svg
+  :target: https://codecov.io/gh/landonb/easy-as-pypi
   :alt: Coverage Status
 
 .. image:: https://readthedocs.org/projects/easy-as-pypi/badge/?version=latest
   :target: https://easy-as-pypi.readthedocs.io/en/latest/
   :alt: Documentation Status
 
-.. image:: https://img.shields.io/github/release/pydob/easy-as-pypi.svg?style=flat
-  :target: https://github.com/pydob/easy-as-pypi/releases
+.. image:: https://img.shields.io/github/release/landonb/easy-as-pypi.svg?style=flat
+  :target: https://github.com/landonb/easy-as-pypi/releases
   :alt: GitHub Release Status
 
 .. image:: https://img.shields.io/pypi/v/easy-as-pypi.svg
@@ -26,8 +26,8 @@ easy-as-pypi
   :target: https://pypi.python.org/pypi/easy-as-pypi/
   :alt: PyPI Supported Python Versions
 
-.. image:: https://img.shields.io/github/license/pydob/easy-as-pypi.svg?style=flat
-  :target: https://github.com/pydob/easy-as-pypi/blob/release/LICENSE
+.. image:: https://img.shields.io/github/license/landonb/easy-as-pypi.svg?style=flat
+  :target: https://github.com/landonb/easy-as-pypi/blob/release/LICENSE
   :alt: License Status
 
 One dev's boilerplate PyPI project.
